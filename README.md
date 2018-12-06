@@ -1,6 +1,6 @@
 # PROYECTO_FINAL
 
-dirección para descargar el video y el pryecto:
+dirección para descargar el video, presentación y el proyecto:
 https://drive.google.com/file/d/1Oq-rvq6iRT7J7rk8jS83ihurWkFtf7Dc/view?usp=sharing
 
 
